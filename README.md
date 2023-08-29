@@ -1,1 +1,1 @@
-# mongoDBExercise
+# mongoExercise
